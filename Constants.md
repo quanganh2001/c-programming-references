@@ -11,8 +11,9 @@ There are different types of constants in C programming.
 | Character Constant              | 'a', 'b', 'x'    |
 ### 2 Ways to define constant in C
 There are two ways to define constant in C programming
-	[1. C Const keyword](#Constant)
-	[2. C define preprocesor](#Define)
+
+[- C Const keyword](#Constant)
+[- C define preprocesor](#Define)
 	
 ### 1. C Const keyword
 <a name="Constant"></a>
