@@ -13,6 +13,7 @@ There are different types of constants in C programming.
 There are two ways to define constant in C programming
 
 [- C Const keyword](#Constant)
+
 [- C define preprocesor](#Define)
 	
 ### 1. C Const keyword
